@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\obj\Debug\OtobusOtomasyonuGuncel.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\obj\Debug\OtobusOtomasyonuGuncel.BiletSatis.resources
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\obj\Debug\OtobusOtomasyonuGuncel.KayitFormu.resources
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\obj\Debug\OtobusOtomasyonuGuncel.Sefer.resources
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\obj\Debug\OtobusOtomasyonuGuncel.Form1.resources
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\obj\Debug\OtobusOtomasyonuGuncel.Properties.Resources.resources
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\obj\Debug\OtobusOtomasyonuGuncel.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\bin\Debug\OtobusOtomasyonuGuncel.exe.config
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\bin\Debug\OtobusOtomasyonuGuncel.exe
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\bin\Debug\OtobusOtomasyonuGuncel.pdb
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\obj\Debug\OtobusOtomasyonuGuncel.exe
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\obj\Debug\OtobusOtomasyonuGuncel.pdb
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\bin\Debug\BUSDatabase.mdf
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\bin\Debug\BUSDatabase_log.ldf
+C:\Users\HP\source\repos\OtobusOtomasyonuGuncel\OtobusOtomasyonuGuncel\obj\Debug\OtobusOtomasyonuGuncel.AnaMenu.resources
